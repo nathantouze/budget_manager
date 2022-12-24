@@ -1,12 +1,12 @@
 {
-  "name": "electron-react-boilerplate",
-  "version": "4.6.0",
-  "description": "A foundation for scalable desktop apps",
+  "name": "budget-manager",
+  "version": "1.0.0",
+  "description": "Application de gestion de budget perso",
   "license": "MIT",
   "author": {
-    "name": "Electron React Boilerplate Maintainers",
-    "email": "electronreactboilerplate@gmail.com",
-    "url": "https://github.com/electron-react-boilerplate"
+    "name": "Nathan Touzé",
+    "email": "nathan.touze99@gmail.com",
+    "url": "https://github.com/nathantouze/budget_manager"
   },
   "main": "./dist/main/main.js",
   "scripts": {
