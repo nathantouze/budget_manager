@@ -29,7 +29,7 @@ function TotalDisplayer(props) {
 
         monthResult = monthResult * months;
         total += monthResult;
-        return total;
+        return total.toFixed(2);
     }
 
     return (

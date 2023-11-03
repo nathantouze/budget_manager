@@ -84,7 +84,6 @@ const createWindow = async () => {
         return path.join(RESOURCES_PATH, ...paths);
     };
 
-
     mainWindow = new BrowserWindow({
         show: false,
         autoHideMenuBar: true,
